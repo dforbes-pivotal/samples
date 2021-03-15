@@ -14,6 +14,8 @@ const INDEX = `<!DOCTYPE html>
   </head>
   <body>
     <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://paketo.io/images/paketo-logo-full-color.png"></img>
+    <br>
+    <h>Example go application, as built and managed by Tanzu Build Service.</h><br>
   </body>
 </html>`
 
